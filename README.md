@@ -7,7 +7,7 @@ I'M a Fullstack Developer
 I've been delving into the world of coding for 2 years, having made a career transition. Starting with HTML, I gradually developed a strong affinity for Full stack Web development...
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [coming soon](http://.com)
+* 🖥️  See my portfolio at [AJportfoilo](https://aj056portfolio.netlify.app)
 * ✉️  You can contact me at [arunajith056@gmail.com](mailto:arunajith056@gmail.com)
 * 🚀  I'm currently working on [updating soon](http://.com)
 * 🧠  I'm learning Next.js
